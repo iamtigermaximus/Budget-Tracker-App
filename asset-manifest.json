@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/SiegfredWebsite/static/css/main.c377cc84.chunk.css",
+    "main.js": "/SiegfredWebsite/static/js/main.ff7d9835.chunk.js",
+    "main.js.map": "/SiegfredWebsite/static/js/main.ff7d9835.chunk.js.map",
+    "runtime-main.js": "/SiegfredWebsite/static/js/runtime-main.6d81bde0.js",
+    "runtime-main.js.map": "/SiegfredWebsite/static/js/runtime-main.6d81bde0.js.map",
+    "static/js/2.730939e5.chunk.js": "/SiegfredWebsite/static/js/2.730939e5.chunk.js",
+    "static/js/2.730939e5.chunk.js.map": "/SiegfredWebsite/static/js/2.730939e5.chunk.js.map",
+    "index.html": "/SiegfredWebsite/index.html",
+    "precache-manifest.a0d589675d326316966d6fb50167e904.js": "/SiegfredWebsite/precache-manifest.a0d589675d326316966d6fb50167e904.js",
+    "service-worker.js": "/SiegfredWebsite/service-worker.js",
+    "static/css/main.c377cc84.chunk.css.map": "/SiegfredWebsite/static/css/main.c377cc84.chunk.css.map",
+    "static/js/2.730939e5.chunk.js.LICENSE.txt": "/SiegfredWebsite/static/js/2.730939e5.chunk.js.LICENSE.txt",
+    "static/media/BudgetApp.jpg": "/SiegfredWebsite/static/media/BudgetApp.5a78036a.jpg",
+    "static/media/CovidTrackerApp.jpg": "/SiegfredWebsite/static/media/CovidTrackerApp.703849b6.jpg",
+    "static/media/PortfolioParallax.jpg": "/SiegfredWebsite/static/media/PortfolioParallax.a1138b6e.jpg",
+    "static/media/ResponsiveWebsite.jpg": "/SiegfredWebsite/static/media/ResponsiveWebsite.dc558c01.jpg",
+    "static/media/ToDoApp.jpg": "/SiegfredWebsite/static/media/ToDoApp.e3533152.jpg",
+    "static/media/style.css": "/SiegfredWebsite/static/media/galaxy.0c26685f.jpg",
+    "static/media/techfolio.png": "/SiegfredWebsite/static/media/techfolio.2b0e7766.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d81bde0.js",
+    "static/js/2.730939e5.chunk.js",
+    "static/css/main.c377cc84.chunk.css",
+    "static/js/main.ff7d9835.chunk.js"
+  ]
+}
